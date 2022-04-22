@@ -1,0 +1,11 @@
+html {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.tenor-gif-embed {
+    width: 400px;
+    height: 400px;
+}
