@@ -5,7 +5,7 @@ Um jogo via browser com combate e resgate de sobreviventes, você só precisa cl
 
 ## imagens do projeto
 <p align="center">
-<img src="./src/imgs/game.gif">
+<img src="./src/imgs/game.png">
 </p>
 
 
